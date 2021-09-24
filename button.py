@@ -1,3 +1,5 @@
 def button(a):
 	return a
-	_
+
+def click(b):
+	return b
